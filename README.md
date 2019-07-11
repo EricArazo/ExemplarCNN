@@ -16,13 +16,12 @@
  @inproceedings{IMVIP2019_ImproveExemplarCNN,
   title = {Improving Unsupervised Learning with ExemplarCNNs},
   authors = {Eric Arazo and Noel E O'Connor and Kevin McGuinness},
-  booktitle = {Irish MAchine Vision and Image Processing (ICML)},
+  booktitle = {Irish Machine Vision and Image Processing (ICML)},
   month = {August},
   year = {2019}
  }
 ```
 
-<>I still need to re-run experiments.
+<!---I still need to re-run experiments.
+Careful: The scripts save models, images, and so on... Make sure everything is in the gitignore!-->
 
-<>Careful:
-<>    - The scripts save models, images, and so on... Make sure everything is in the gitignore!
