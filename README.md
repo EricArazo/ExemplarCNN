@@ -30,7 +30,7 @@
  @inproceedings{IMVIP2019_ImproveExemplarCNN,
   title = {Improving Unsupervised Learning with ExemplarCNNs},
   authors = {Eric Arazo and Noel E O'Connor and Kevin McGuinness},
-  booktitle = {Irish Machine Vision and Image Processing (ICML)},
+  booktitle = {Irish Machine Vision and Image Processing (IMVIP)},
   month = {August},
   year = {2019}
  }
