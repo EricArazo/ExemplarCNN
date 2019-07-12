@@ -21,6 +21,8 @@
 |ExemplarCNN (ours)|74.14 ± 0.39|
 |Clustering (ours)|76.42 ± 0.35|
 
+(Dosovitsky et al., 2015) Dosovitskiy, A., Fischer, P., Springenberg, J. T., Riedmiller, M., and Brox, T. Discriminative unsupervised feature learning with exemplar convolutional neural networks. IEEE transactions onpattern analysis and machine intelligence.
+
 ### Please consider citing the following paper if you find this work useful for your research.
 
 
