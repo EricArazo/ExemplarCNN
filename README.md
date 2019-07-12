@@ -5,9 +5,9 @@
 
 |Algorithm| |
 |----|----|
-|ExemplarCNN (Dosovitsky et al., 2015)|..|
-|ExemplarCNN (ours)|..|
-|Clustering (ours)|..|
+|ExemplarCNN (Dosovitsky et al., 2015)|74.2 ± 0.4|
+|ExemplarCNN (ours)|74.14 ± 0.39|
+|Clustering (ours)|76.42 ± 0.35|
 
 ### Please consider citing the following paper if you find this work useful for your research.
 
