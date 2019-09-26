@@ -1,5 +1,7 @@
 # Official PyTorch implementation for the IMVIP 2019 paper: "Improving Unsupervised Learning with ExemplarCNNs"
 
+### Paper: https://arrow.dit.ie/cgi/viewcontent.cgi?article=1001&context=impsthree
+
 ### To train a model:
 - Download the STL-10 datset into ./data.
 - Use "create_surrogate_classes_002.ipynb" to randomly select 16000 images from the unlabeled set from STL10.
